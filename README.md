@@ -8,7 +8,7 @@ Uma escola precisa controlar as matrículas dos novos alunos que estão chegando
 - [X] Data de Nascimento
 - [X] Nome do Responsável 
 - [X] Endereço 
-- [] Telefone para contato 
+- [X] Telefone para contato 
 - [X] Observações para contato
 
 ### Esse mesmo projeto será feito em nodeJS, com TypeScript. Já que é a plataforma que fico mais a vontade e o TypeScript é algo que consigo adicionar a POO. :suspect:
