@@ -13,6 +13,8 @@ Uma escola precisa controlar as matrículas dos novos alunos que estão chegando
 
 ### Esse mesmo projeto será feito em nodeJS, com TypeScript. Já que é a plataforma que fico mais a vontade e o TypeScript é algo que consigo adicionar a POO. :suspect:
 
+[Projeto em nodeJS + TypeScript](https://github.com/m7Aei/Escola-TypeScript)
+
 <h3 align="center">
   Acessem a He4rt :purple_heart:
 </h3>
